@@ -1,0 +1,11 @@
+1) CREATING THE MOCKSTOCK TABLE
+
+INSERT INTO `stock`.`mockstock` (`Company`, `Shares`, `Price`) VALUES ('TCS', '100000', '100'), ('Infosys', '100000', '100'), ('DLF', '100000', '100'), ('TISCO', '100000', '100'), ('ONGC Ltd.', '100000', '100'), ('RIL', '100000', '100'), ('L&T', '100000', '100'), ('BHEL', '100000', '100'), ('Bharti Airtel', '100000', '100'), ('REL Comm.', '100000', '100'), ('NTPC', '100000', '100'), ('TATA Power', '100000', '100'), ('ITC', '100000', '100'), ('TATA Motors', '100000', '100'), ('Maruti Suzuki', '100000', '100'), ('Hero Motor Corp', '100000', '100'), ('HDFC  ', '100000', '100'), ('HDFC Bank', '100000', '100'), ('ICICI Bank', '100000', '100'), ('SBI', '100000', '100');
+
+2) creating table
+
+create table t1 ( companey varchar(200),buy int(20),sell int(20) )
+
+III)
+create table t3351 (company text,type text,shares int(20), price float,tcount int(10)) 
+
