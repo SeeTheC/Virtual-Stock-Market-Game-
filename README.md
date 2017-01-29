@@ -1,8 +1,8 @@
  Virtual-Stock-Market (Game)
 ====
 ## Description
-It's online stimulation of stock market. Players are given fixed amount of virtual cash and they have invest money on
-virtual companies. This application will randomly generate some scenarios where companies share can goes up or down.
+It's online stimulation of stock market. Players are given fixed amount of virtual cash and they have to invest money on
+virtual companies. This application will randomly generate some scenarios where companies shares can goes up or down.
 Games goes for 30 mins. In the end player having maximum assets will won.
 
 ---
